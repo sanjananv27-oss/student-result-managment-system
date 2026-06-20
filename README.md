@@ -17,20 +17,19 @@ A comprehensive mini-project designed to streamline the process of managing, sto
 * **Clean Interface:** Clear display of individual subject scores, total marks, percentage, and pass/fail status.
 
 ---
-
 ## 🛠️ Technologies Used
 
-* **Frontend:** HTML5, CSS3, JavaScript, Bootstrap (For a responsive UI)
-* **Backend:** PHP (or Python / Java / Node.js)
-* **Database:** MySQL (or SQLite)
-* **Server Environment:** XAMPP / WAMP (for local testing)
+* **Language:** Python 3.x
+* **Database:** SQLite (or whichever database you used in your python script)
+* **GUI Framework:** Tkinter (or CustomTkinter / PyQt if applicable)
 
 ---
 
 ## 💻 How to Run the Project Locally
 
-Follow these steps to set up the project on your local machine:
+Follow these steps to set up and run the Python application on your machine:
 
 1. **Clone the repository:**
 ```bash
    git clone [https://github.com/sanjananv27-oss/student-result-managment-system.git](https://github.com/sanjananv27-oss/student-result-managment-system.git)
+
